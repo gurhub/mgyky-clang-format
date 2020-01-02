@@ -1,5 +1,5 @@
 ---
-Language:        Cpp
+Language:        ObjC
 # BasedOnStyle:  Chromium
 AccessModifierOffset: 0
 AlignAfterOpenBracket: true
