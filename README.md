@@ -28,9 +28,13 @@ checked again, you'll I found an empty clang-format file in your HOME directory.
 If your clang-format application is already installed, you can place your clang-format file at your HOME directory. That will effect all project which hasn't own a ".clang-format" file.
 
 
+# Testing your clang-format on the Terminal
 
+To testing on a file from terminal use command line below:
 
-
+```
+clang-format -i *.m
+```
 
 
 
