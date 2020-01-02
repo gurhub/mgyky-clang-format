@@ -2,7 +2,7 @@
 
 My .clang-format file for using with Objective-C projects.
 
-# How to use with XCode8, XCode9, XCode10
+# How to use with XCode8, XCode9, XCode10, XCode11
 
 * download latest release of XcodeClangFormat plug-in from https://github.com/mapbox/XcodeClangFormat
 * then, go to System Preferences → Extensions, and make sure that clang-format in the Xcode Source Editor section is checked
