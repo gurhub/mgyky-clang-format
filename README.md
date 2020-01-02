@@ -33,7 +33,7 @@ If your clang-format application is already installed, you can place your clang-
 To testing on a file from terminal use command line below:
 
 ```
-clang-format -i *.m
+find . -type f \( -iname "*.m" -o -iname "*.h" \) -exec clang-format -style=file -i {} \;
 ```
 
 
